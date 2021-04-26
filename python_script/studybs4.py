@@ -1,4 +1,3 @@
-# test_bs4.py
 # coding=utf-8
 import os
 from bs4 import BeautifulSoup
